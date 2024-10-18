@@ -8,6 +8,8 @@
 ### Last Updated: June 2023 ; first written Dec 2020
 ### R version 4.3.0
 
+###sreilly (NU/CBG) updates/edits: October 2024, using R version 4.4.1
+
 ### DESCRIPTION:
   ## This script sets the working environment for the computer on which you are
   #     working. You need to add your own computer and file paths by filling 
@@ -24,6 +26,21 @@
 #   blank "________" (line 38)
 Sys.info()[4]
 
+
+## For sreilly:
+if (Sys.info()[4] == "MacBookPony.local"){
+  main_dir <- "/Users/admin/Documents/School/NU/Artocarpus/Coding/conservation-gap-analysis/Example_spatial-analysis-workflow"
+  #note for future--after running through workshop examples/sample workflow, should run this fresh with alternate (more efficient) filepaths
+  log_loc <-"/Users/admin/Documents/School/NU/Artocarpus/Coding"
+  gap_dir <- "/Users/admin/Documents/School/NU/Artocarpus/Coding/conservation-gap-analysis"
+  print(paste("Working from the lovely", Sys.info()[4]))
+} else {
+  # default, which sets the working directory as the folder from which you
+  #   opened the scripts/project
+  setwd(getwd())
+  print("You should add your info to the 0-set_working_directory.R script so
+    this line automatically sets up all the working directories you'll be using!")
+}
 
 ## For Emily Bruns:
 if (Sys.info()[4] == "Africa.local") {
@@ -111,3 +128,10 @@ if(!dir.exists(file.path(main_dir, occ_dir, standardized_occ)))
 analysis_dir <- "analysis_outputs"
 if(!dir.exists(file.path(main_dir, analysis_dir)))
   dir.create(file.path(main_dir, analysis_dir), recursive=T)
+
+
+####Package installation/prep####
+my.packages <- c('tidyverse', 'textclean', 'data.table', 'rgbif', 'ridigbio', 'BIEN',
+                 'CoordinateCleaner', 'terra', 'countrycode', 'rnaturalearth')
+install.packages(my.packages)
+
