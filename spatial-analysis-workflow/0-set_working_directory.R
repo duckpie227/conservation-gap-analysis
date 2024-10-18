@@ -131,7 +131,7 @@ if(!dir.exists(file.path(main_dir, analysis_dir)))
 
 
 ####Package installation/prep####
-my.packages <- c('tidyverse', 'textclean', 'data.table', 'rgbif', 'ridigbio', 'BIEN',
-                 'CoordinateCleaner', 'terra', 'countrycode', 'rnaturalearth')
-install.packages(my.packages)
+#my.packages <- c('tidyverse', 'textclean', 'data.table', 'rgbif', 'ridigbio', 'BIEN',
+              #   'CoordinateCleaner', 'terra', 'countrycode', 'rnaturalearth')
+#install.packages(my.packages)
 
