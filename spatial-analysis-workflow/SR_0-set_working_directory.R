@@ -46,7 +46,7 @@ if (Sys.info()[4] == "Africa.local") {
   main_dir <- "/Users/admin/Documents/School/NU/Artocarpus/conservation-gap-analysis"
   # set location for log-in information text file (e.g., for GBIF)
   #   we use this in 3-get_occurrence_data.R
-  log_loc <- "/Users/admin/Documents/School/NU/Artocarpus/gap-analysis_passwords.txt"
+  log_loc <- "/Users/admin/Documents/School/NU/Artocarpus/gap-analysis_passwords"
   # [optional] location of cloned GapAnalysis repository; we use this in 
   #   7-run_GapAnalysis_package.R
   # Just leave this blank if you're not to this point in the workflow yet!
