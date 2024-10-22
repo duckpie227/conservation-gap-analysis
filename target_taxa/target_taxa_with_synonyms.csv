@@ -1,0 +1,12 @@
+taxon_name,taxon_name_accepted,taxon_name_status,ns_rank,ns_taxon_name
+Juglans californica,Juglans californica,Accepted,G3 (Vulerable),Juglans californica
+Juglans californica var. hindsii,Juglans hindsii,Synonym,G5 (Secure),Juglans hindsii
+Juglans hindsii,Juglans hindsii,Accepted,G5 (Secure),Juglans hindsii
+Juglans arizonica,Juglans major,Synonym,G4 (Apparently Secure),Juglans major
+Juglans elaeopyren,Juglans major,Synonym,G4 (Apparently Secure),Juglans major
+Juglans major,Juglans major,Accepted,G4 (Apparently Secure),Juglans major
+Juglans neomexicana,Juglans major,Synonym,G4 (Apparently Secure),Juglans major
+Juglans torreyi,Juglans major,Synonym,G4 (Apparently Secure),Juglans major
+Juglans microcarpa,Juglans microcarpa,Accepted,G5 (Secure),Juglans microcarpa
+Juglans rupestris,Juglans microcarpa,Synonym,G5 (Secure),Juglans microcarpa
+Juglans subrupestris,Juglans microcarpa,Synonym,G5 (Secure),Juglans microcarpa

@@ -87,7 +87,7 @@ lapply(my.packages, require, character.only=TRUE)
 
 # use 0-set_working_directory.R script
   # change this path based on where the script is located on your computer:
-source("/Users/emily/Documents/GitHub/conservation-gap-analysis/spatial-analysis-workflow/0-set_working_directory.R")
+source("/Users/admin/Documents/School/NU/Artocarpus/conservation-gap-analysis/spatial-analysis-workflow/0-set_working_directory.R")
 
 # create folder for output data
 if(!dir.exists(file.path(main_dir,occ_dir,standardized_occ,"input_datasets")))
