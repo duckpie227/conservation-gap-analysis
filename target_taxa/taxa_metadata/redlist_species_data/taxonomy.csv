@@ -1,0 +1,32 @@
+internalTaxonId,scientificName,kingdomName,phylumName,className,orderName,familyName,genusName,speciesName,infraType,infraName,infraAuthority,subpopulationName,authority,taxonomicNotes
+157063,Helicella juglans,ANIMALIA,MOLLUSCA,GASTROPODA,STYLOMMATOPHORA,GEOMITRIDAE,Helicella,juglans,,,,,"E. Gittenberger, 1991","<p>According to Gittenberger (1991),&#160;<em>Helicella juglans&#160;</em>differs conchologically from&#160;<em>Helicopsis cypriola&#160;</em>in several characters, but none of these differences is very conspicuous. According to Welter-Schultes (2012),&#160;<em>Helicopsis cypriola&#160;</em>is coarser and more irregularly sculptured, and has a deeper suture.</p>"
+31699,Juglans insularis,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Juglans,insularis,,,,,Griseb.,
+32078,Juglans neotropica,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Juglans,neotropica,,,,,Diels,
+32321,Carya sinensis,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Carya,sinensis,,,,,Dode,
+33985,Juglans jamaicensis,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Juglans,jamaicensis,,,,,C.DC.,
+34359,Juglans australis,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Juglans,australis,,,,,Griseb.,
+35154,Juglans californica,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Juglans,californica,,,,,S.Watson,"<em>Juglans californica </em>was previously split into two varieties, var.&#160;<em>californica</em>&#160;and var.&#160;<em>hindsii. </em>Now each variety is treated as separate species (<em>Juglans californica </em>and <em>Juglans hindsii</em>). As such these two species are assessed independently on the IUCN Red List."
+63495,Juglans regia,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Juglans,regia,,,,,L.,
+30700,Juglans olanchana,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Juglans,olanchana,,,,,Standl. &amp; L.O.Williams,
+62019576,Carya aquatica,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Carya,aquatica,,,,,(F.Michx.) Nutt. ex Elliott,
+62019598,Carya cordiformis,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Carya,cordiformis,,,,,(Wangenh.) K.Koch,
+62019607,Carya glabra,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Carya,glabra,,,,,(Mill.) Sweet,
+62019622,Carya illinoinensis,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Carya,illinoinensis,,,,,(Wangenh.) K.Koch,
+62019631,Carya laciniosa,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Carya,laciniosa,,,,,(F.Michx.) G.Don,
+62019640,Carya myristiciformis,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Carya,myristiciformis,,,,,(F.Michx.) Nutt. ex Elliott,
+62019649,Carya ovata,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Carya,ovata,,,,,(Mill.) K.Koch,
+62019664,Engelhardia roxburghiana,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Engelhardia,roxburghiana,,,,,Lindl.,This species may soon go into taxonomic revision and come under the species name&#160;<em>Alfaropsis roxburghiana</em> (Wall.) Iljinsk.
+62019689,Juglans cinerea,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Juglans,cinerea,,,,,L.,
+62019703,Juglans hindsii,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Juglans,hindsii,,,,,Jeps. ex R.E.Sm.,
+62019712,Juglans nigra,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Juglans,nigra,,,,,L.,
+66813121,Juglans major,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Juglans,major,,,,,(Torr.) A.Heller,
+66813463,Juglans mexicana,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Juglans,mexicana,,,,,S.Watson,
+66813477,Juglans microcarpa,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Juglans,microcarpa,,,,,Berland.,
+66813600,Juglans mollis,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Juglans,mollis,,,,,Engelm.,
+66813854,Juglans steyermarkii,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Juglans,steyermarkii,,,,,W.E.Manning,
+66813974,Juglans venezuelensis,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Juglans,venezuelensis,,,,,W.E.Manning,
+66815986,Pterocarya fraxinifolia,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Pterocarya,fraxinifolia,,,,,(Poir.) Spach,
+126194480,Carya tomentosa,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Carya,tomentosa,,,,,(Poiret) Nuttall,There are recent taxonomic changes or current taxonomic doubts or debates about the validity or identity of Mockernut hickory (<em>Carya tomentosa</em> or <em>Carya alba</em>). Flora of North America (Stone 1997) identify this taxon as <em>Carya tomentosa</em> (Poir.) Nuttall. This report is based on the decision made by the Flora of North America editorial committee that <em>Carya tomentosa </em>should be its own species<em>.&#160;</em>
+126593309,Juglans pyriformis,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,FAGALES,JUGLANDACEAE,Juglans,pyriformis,,,,,Liebm.,
+202838448,Picrodendron baccatum,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,MALPIGHIALES,PICRODENDRACEAE,Picrodendron,baccatum,,,,,(L.) Krug &amp; Urb.,
+175698140,Dysoxylum juglans,PLANTAE,TRACHEOPHYTA,MAGNOLIOPSIDA,SAPINDALES,MELIACEAE,Dysoxylum,juglans,,,,,(Hance) Pellegr.,

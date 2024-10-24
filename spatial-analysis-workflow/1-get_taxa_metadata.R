@@ -50,7 +50,7 @@ lapply(my.packages, require, character.only=TRUE)
 
 # use 0-set_working_directory.R script:
   # update to your path
-source("/Users/emily/Documents/GitHub/conservation-gap-analysis/spatial-analysis-workflow/0-set_working_directory.R")
+source("/Users/admin/Documents/School/NU/Artocarpus/conservation-gap-analysis/spatial-analysis-workflow/0-set_working_directory.R")
   
 ################################################################################
 # Read in target taxa and create folder for outputs
@@ -103,6 +103,7 @@ if(!dir.exists(file.path(main_dir, taxa_dir, output_dir)))
 ## RED LIST CATEGORY
 
 # read in downloaded RL data that has threat categories
+##SR note: needed to rename "assessments.csv" as "simple_summary.csv"
 category <- read.csv(file.path(main_dir,taxa_dir,output_dir,
                                "redlist_species_data","simple_summary.csv"),
                      colClasses="character",na.strings=c("","NA"),strip.white=T)
@@ -114,6 +115,7 @@ category <- category %>%
 ## COUNTRIES OF OCCURRENCE
 
 # read in downloaded RL data for country-level species distribution
+##SR note--this file does not appear to exist!!!
 countries <- read.csv(file.path(main_dir,taxa_dir,output_dir,
                                 "redlist_species_data","countries.csv"),
                       colClasses="character",na.strings=c("","NA"),strip.white=T)
