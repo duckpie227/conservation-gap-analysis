@@ -47,7 +47,7 @@ rm(my.packages)
 
 # use 0-set_working_directory.R script:
   # update to your path
-source("/Users/emily/Documents/GitHub/conservation-gap-analysis/spatial-analysis-workflow/0-set_working_directory.R")
+source("/Users/admin/Documents/School/NU/Artocarpus/conservation-gap-analysis/spatial-analysis-workflow/0-set_working_directory.R")
 
 ################################################################################
 # Create layer for add country codes and clipping occurrence points to land

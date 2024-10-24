@@ -80,7 +80,7 @@ my.packages <- c('tidyverse','textclean','data.table','rgbif','ridigbio','BIEN')
 # install.packages(my.packages) #Turn on to install current versions
 lapply(my.packages, require, character.only=TRUE)
     rm(my.packages)
-
+    
 ################################################################################
 # Set working directory
 ################################################################################
