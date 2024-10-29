@@ -108,6 +108,8 @@ writeVector(urban, file.path(main_dir,gis_dir,"urban_areas_50m"),
   ## Global terrestrial ecoregions from The Nature Conservancy (48 MB)
   #   To download, go to 
   #   https://geospatial.tnc.org/datasets/7b7fb9d945544d41b3e7a91494c42930/explore
+###SR NOTE: As of October 2024 this page cannot actually be accessed without "credentials"; searches for dataset name/related terms yield out-of-date, incomplete, and/or error pages/results.
+###   NEXT STEPS TBD???
   #   Click the "Download" button on the left
   #   In the "Shapefile" box on the left, click "Download"
   #   Place the downloaded folder (Terrestrial_Ecoregions) in your gis_layers

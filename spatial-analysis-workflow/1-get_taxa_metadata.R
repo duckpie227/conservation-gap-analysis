@@ -83,6 +83,7 @@ if(!dir.exists(file.path(main_dir, taxa_dir, output_dir)))
   # Go to https://www.iucnredlist.org/search
   # Click "Login/Register" in top bar; create an account if you don't have one,
   #   then log in to your account
+###SR NOTE: After making account/logging in, go to profile settings and update data/downloads options to include all relevant categories (eg countries, synonyms, threats, etc.)
   # Open the "Taxonomy" tab in the left bar
   #   Either search for your target genus/genera or simply check "Plantae" to 
   #   download data for all plant species that have assessments globally (~60MB)
