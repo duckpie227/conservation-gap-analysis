@@ -1,0 +1,73 @@
+assessmentId,internalTaxonId,scientificName,code,name,international,national,other,subsistence
+61526700,63495,Juglans regia,3,Medicine - human & veterinary,true,true,,true
+61526700,63495,Juglans regia,12,"Handicrafts, jewellery, etc.",true,true,,true
+61526700,63495,Juglans regia,11,Other household goods,true,true,,true
+61526700,63495,Juglans regia,1,Food - human,true,true,,true
+62019579,62019576,Carya aquatica,7,Fuels,,,,
+62019600,62019598,Carya cordiformis,11,Other household goods,,,,
+62019600,62019598,Carya cordiformis,1,Food - human,,,,
+62019600,62019598,Carya cordiformis,7,Fuels,,,,
+62019600,62019598,Carya cordiformis,9,Construction or structural materials,,,,
+62019600,62019598,Carya cordiformis,17,Other (free text),,,watershed control,
+62019609,62019607,Carya glabra,17,Other (free text),,,Shade tree,
+62019609,62019607,Carya glabra,9,Construction or structural materials,,,,
+62019609,62019607,Carya glabra,12,"Handicrafts, jewellery, etc.",,,,
+62019633,62019631,Carya laciniosa,9,Construction or structural materials,,,,
+62019633,62019631,Carya laciniosa,7,Fuels,,,,
+62019633,62019631,Carya laciniosa,11,Other household goods,,,,
+62019642,62019640,Carya myristiciformis,9,Construction or structural materials,,,,
+62019651,62019649,Carya ovata,9,Construction or structural materials,,,,
+62019651,62019649,Carya ovata,7,Fuels,,,,
+62019651,62019649,Carya ovata,11,Other household goods,,,,
+62019651,62019649,Carya ovata,1,Food - human,,,,
+62019666,62019664,Engelhardia roxburghiana,17,Other (free text),,true,Reforestation,true
+62019666,62019664,Engelhardia roxburghiana,9,Construction or structural materials,,true,,true
+62019666,62019664,Engelhardia roxburghiana,3,Medicine - human & veterinary,,true,,true
+62019714,62019712,Juglans nigra,9,Construction or structural materials,,,,
+62019714,62019712,Juglans nigra,5,Manufacturing chemicals,,,,
+62019714,62019712,Juglans nigra,13,"Pets/display animals, horticulture",,,,
+62019714,62019712,Juglans nigra,11,Other household goods,,,,
+62019714,62019712,Juglans nigra,1,Food - human,,,,
+126194528,126194480,Carya tomentosa,17,Other (free text),,,Watershed protection,
+126194528,126194480,Carya tomentosa,9,Construction or structural materials,,,,
+126194528,126194480,Carya tomentosa,7,Fuels,,,,
+126194528,126194480,Carya tomentosa,11,Other household goods,,,,
+126194528,126194480,Carya tomentosa,1,Food - human,,,,
+62019624,62019622,Carya illinoinensis,1,Food - human,true,true,,true
+62019624,62019622,Carya illinoinensis,2,Food - animal,,true,,true
+62019624,62019622,Carya illinoinensis,9,Construction or structural materials,,true,,
+62019624,62019622,Carya illinoinensis,3,Medicine - human & veterinary,,,,true
+62019624,62019622,Carya illinoinensis,11,Other household goods,,true,,
+62019696,62019689,Juglans cinerea,9,Construction or structural materials,true,true,,true
+62019696,62019689,Juglans cinerea,12,"Handicrafts, jewellery, etc.",true,true,,true
+62019696,62019689,Juglans cinerea,3,Medicine - human & veterinary,,true,,true
+62019696,62019689,Juglans cinerea,11,Other household goods,true,true,,
+62019696,62019689,Juglans cinerea,1,Food - human,,true,,true
+66813150,66813121,Juglans major,9,Construction or structural materials,,true,,true
+66813150,66813121,Juglans major,2,Food - animal,,true,,true
+66813150,66813121,Juglans major,1,Food - human,,true,,
+66813479,66813477,Juglans microcarpa,11,Other household goods,,,,
+61524825,35154,Juglans californica,2,Food - animal,,true,,true
+61524825,35154,Juglans californica,13,"Pets/display animals, horticulture",,true,,true
+61524825,35154,Juglans californica,1,Food - human,,true,,true
+66816002,66815986,Pterocarya fraxinifolia,6,Other chemicals,,,,true
+66816002,66815986,Pterocarya fraxinifolia,4,Poisons,,,,true
+66816002,66815986,Pterocarya fraxinifolia,13,"Pets/display animals, horticulture",,,,true
+66816002,66815986,Pterocarya fraxinifolia,9,Construction or structural materials,,,,
+62019705,62019703,Juglans hindsii,17,Other (free text),,,It is used as root stock for Juglans regia (English Walnut) and as the source of Paradox hybrids (J. hindsii X J. regia).,
+62019705,62019703,Juglans hindsii,11,Other household goods,,,,
+62019705,62019703,Juglans hindsii,13,"Pets/display animals, horticulture",,,,
+66813976,66813974,Juglans venezuelensis,11,Other household goods,,,,
+66813976,66813974,Juglans venezuelensis,9,Construction or structural materials,,,,
+126598076,126593309,Juglans pyriformis,9,Construction or structural materials,,true,,true
+66813602,66813600,Juglans mollis,12,"Handicrafts, jewellery, etc.",,,,true
+66813602,66813600,Juglans mollis,3,Medicine - human & veterinary,,,,true
+66813903,66813854,Juglans steyermarkii,9,Construction or structural materials,,,,true
+66813903,66813854,Juglans steyermarkii,1,Food - human,,,,true
+61528606,30700,Juglans olanchana,10,"Wearing apparel, accessories",,true,,
+61528606,30700,Juglans olanchana,9,Construction or structural materials,,,,true
+202881013,202838448,Picrodendron baccatum,1,Food - human,,,,true
+202881013,202838448,Picrodendron baccatum,2,Food - animal,,,,true
+202881013,202838448,Picrodendron baccatum,3,Medicine - human & veterinary,,,,true
+202881013,202838448,Picrodendron baccatum,4,Poisons,,,,true
+202881013,202838448,Picrodendron baccatum,9,Construction or structural materials,,,,true

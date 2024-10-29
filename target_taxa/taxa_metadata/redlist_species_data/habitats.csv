@@ -1,0 +1,47 @@
+assessmentId,internalTaxonId,scientificName,code,name,majorImportance,season,suitability
+5028136,157063,Helicella juglans,3.5,Shrubland - Subtropical/Tropical Dry,Yes,,Suitable
+5028136,157063,Helicella juglans,14.4,Artificial/Terrestrial - Rural Gardens,No,,Suitable
+5028136,157063,Helicella juglans,14.5,Artificial/Terrestrial - Urban Areas,No,,Suitable
+61526700,63495,Juglans regia,1.4,Forest - Temperate,,,Suitable
+62019579,62019576,Carya aquatica,5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",,resident,Suitable
+62019579,62019576,Carya aquatica,5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,,,Suitable
+62019600,62019598,Carya cordiformis,1.4,Forest - Temperate,,,Suitable
+62019609,62019607,Carya glabra,1.4,Forest - Temperate,,resident,Suitable
+62019633,62019631,Carya laciniosa,1.4,Forest - Temperate,,resident,Suitable
+62019633,62019631,Carya laciniosa,5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",,resident,Suitable
+62019642,62019640,Carya myristiciformis,1.4,Forest - Temperate,,resident,Suitable
+62019642,62019640,Carya myristiciformis,3.4,Shrubland - Temperate,,resident,Suitable
+62019651,62019649,Carya ovata,3.4,Shrubland - Temperate,,resident,Suitable
+62019651,62019649,Carya ovata,5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",,resident,Suitable
+62019651,62019649,Carya ovata,1.4,Forest - Temperate,,resident,Suitable
+62019651,62019649,Carya ovata,5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),,resident,Suitable
+62019666,62019664,Engelhardia roxburghiana,1.6,Forest - Subtropical/Tropical Moist Lowland,,,Suitable
+62019714,62019712,Juglans nigra,1.4,Forest - Temperate,Yes,resident,Suitable
+62019714,62019712,Juglans nigra,14.1,Artificial/Terrestrial - Arable Land,,resident,Suitable
+126194528,126194480,Carya tomentosa,1.4,Forest - Temperate,,resident,Suitable
+126194528,126194480,Carya tomentosa,3.4,Shrubland - Temperate,,resident,Suitable
+62019624,62019622,Carya illinoinensis,1.4,Forest - Temperate,,,Suitable
+62019624,62019622,Carya illinoinensis,5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),,,Suitable
+62019696,62019689,Juglans cinerea,1.4,Forest - Temperate,Yes,Resident,Suitable
+66813150,66813121,Juglans major,5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Yes,Resident,Suitable
+66813150,66813121,Juglans major,5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Yes,Resident,Suitable
+66813150,66813121,Juglans major,1.4,Forest - Temperate,Yes,Resident,Suitable
+66813479,66813477,Juglans microcarpa,1.4,Forest - Temperate,,Resident,Suitable
+66813479,66813477,Juglans microcarpa,5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,,Resident,Suitable
+66813479,66813477,Juglans microcarpa,5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),,Resident,Suitable
+61524825,35154,Juglans californica,1.4,Forest - Temperate,,,Suitable
+61524825,35154,Juglans californica,5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),,,Suitable
+66816002,66815986,Pterocarya fraxinifolia,1.4,Forest - Temperate,,,Suitable
+62019705,62019703,Juglans hindsii,1.4,Forest - Temperate,,Resident,Suitable
+66813465,66813463,Juglans mexicana,1.9,Forest - Subtropical/Tropical Moist Montane,Yes,Resident,Suitable
+66813976,66813974,Juglans venezuelensis,1.5,Forest - Subtropical/Tropical Dry,,Resident,Suitable
+126598076,126593309,Juglans pyriformis,1.9,Forest - Subtropical/Tropical Moist Montane,Yes,Resident,Suitable
+126598076,126593309,Juglans pyriformis,1.4,Forest - Temperate,,Resident,Suitable
+66813602,66813600,Juglans mollis,1.4,Forest - Temperate,,Resident,Suitable
+66813602,66813600,Juglans mollis,1.9,Forest - Subtropical/Tropical Moist Montane,Yes,Resident,Suitable
+66813903,66813854,Juglans steyermarkii,1.9,Forest - Subtropical/Tropical Moist Montane,,,Suitable
+61528606,30700,Juglans olanchana,1.4,Forest - Temperate,,,Suitable
+61528606,30700,Juglans olanchana,1.9,Forest - Subtropical/Tropical Moist Montane,Yes,,Suitable
+202881013,202838448,Picrodendron baccatum,3.5,Shrubland - Subtropical/Tropical Dry,Yes,Resident,Suitable
+202881013,202838448,Picrodendron baccatum,1.5,Forest - Subtropical/Tropical Dry,Yes,Resident,Suitable
+237729164,175698140,Dysoxylum juglans,1.6,Forest - Subtropical/Tropical Moist Lowland,,,Suitable

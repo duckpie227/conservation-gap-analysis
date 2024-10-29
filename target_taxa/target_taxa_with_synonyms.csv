@@ -1,12 +1,12 @@
-taxon_name,taxon_name_accepted,taxon_name_status,ns_rank,ns_taxon_name
-Juglans californica,Juglans californica,Accepted,G3 (Vulerable),Juglans californica
-Juglans californica var. hindsii,Juglans hindsii,Synonym,G5 (Secure),Juglans hindsii
-Juglans hindsii,Juglans hindsii,Accepted,G5 (Secure),Juglans hindsii
-Juglans arizonica,Juglans major,Synonym,G4 (Apparently Secure),Juglans major
-Juglans elaeopyren,Juglans major,Synonym,G4 (Apparently Secure),Juglans major
-Juglans major,Juglans major,Accepted,G4 (Apparently Secure),Juglans major
-Juglans neomexicana,Juglans major,Synonym,G4 (Apparently Secure),Juglans major
-Juglans torreyi,Juglans major,Synonym,G4 (Apparently Secure),Juglans major
-Juglans microcarpa,Juglans microcarpa,Accepted,G5 (Secure),Juglans microcarpa
-Juglans rupestris,Juglans microcarpa,Synonym,G5 (Secure),Juglans microcarpa
-Juglans subrupestris,Juglans microcarpa,Synonym,G5 (Secure),Juglans microcarpa
+"taxon_name","taxon_name_accepted","taxon_name_status","ns_rank","ns_taxon_name","rl_category","all_native_dist","all_native_dist_iso2","rl_native_dist","rl_native_dist_iso2","rl_introduced_dist","rl_introduced_dist_iso2","rl_taxon_name","gts_native_dist","gts_native_dist_iso2","gts_taxon_name","manual_native_dist","manual_native_dist_iso2"
+"Juglans californica","Juglans californica","Accepted","G3 (Vulerable)","Juglans californica","Near Threatened","United States","US","United States","US","","","Juglans californica","United States","US","Juglans californica","",""
+"Juglans californica var. hindsii","Juglans hindsii","Synonym","G5 (Secure)","Juglans hindsii","Least Concern","United States","US","United States","US","","","Juglans hindsii","United States","US","Juglans hindsii","",""
+"Juglans hindsii","Juglans hindsii","Accepted","G5 (Secure)","Juglans hindsii","Least Concern","United States","US","United States","US","","","Juglans hindsii","United States","US","Juglans hindsii","",""
+"Juglans arizonica","Juglans major","Synonym","G4 (Apparently Secure)","Juglans major","Least Concern","Mexico; United States","MX; US","Mexico; United States","MX; US","","","Juglans major","Mexico; United States","MX; US","Juglans major","",""
+"Juglans elaeopyren","Juglans major","Synonym","G4 (Apparently Secure)","Juglans major","Least Concern","Mexico; United States","MX; US","Mexico; United States","MX; US","","","Juglans major","Mexico; United States","MX; US","Juglans major","",""
+"Juglans major","Juglans major","Accepted","G4 (Apparently Secure)","Juglans major","Least Concern","Mexico; United States","MX; US","Mexico; United States","MX; US","","","Juglans major","Mexico; United States","MX; US","Juglans major","",""
+"Juglans neomexicana","Juglans major","Synonym","G4 (Apparently Secure)","Juglans major","Least Concern","Mexico; United States","MX; US","Mexico; United States","MX; US","","","Juglans major","Mexico; United States","MX; US","Juglans major","",""
+"Juglans torreyi","Juglans major","Synonym","G4 (Apparently Secure)","Juglans major","Least Concern","Mexico; United States","MX; US","Mexico; United States","MX; US","","","Juglans major","Mexico; United States","MX; US","Juglans major","",""
+"Juglans microcarpa","Juglans microcarpa","Accepted","G5 (Secure)","Juglans microcarpa","Least Concern","Mexico; United States","MX; US","Mexico; United States","MX; US","","","Juglans microcarpa","Mexico; United States","MX; US","Juglans microcarpa","",""
+"Juglans rupestris","Juglans microcarpa","Synonym","G5 (Secure)","Juglans microcarpa","Least Concern","Mexico; United States","MX; US","Mexico; United States","MX; US","","","Juglans microcarpa","Mexico; United States","MX; US","Juglans microcarpa","",""
+"Juglans subrupestris","Juglans microcarpa","Synonym","G5 (Secure)","Juglans microcarpa","Least Concern","Mexico; United States","MX; US","Mexico; United States","MX; US","","","Juglans microcarpa","Mexico; United States","MX; US","Juglans microcarpa","",""

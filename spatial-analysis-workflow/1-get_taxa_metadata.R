@@ -103,7 +103,6 @@ if(!dir.exists(file.path(main_dir, taxa_dir, output_dir)))
 ## RED LIST CATEGORY
 
 # read in downloaded RL data that has threat categories
-##SR note: needed to rename "assessments.csv" as "simple_summary.csv"
 category <- read.csv(file.path(main_dir,taxa_dir,output_dir,
                                "redlist_species_data","simple_summary.csv"),
                      colClasses="character",na.strings=c("","NA"),strip.white=T)
@@ -115,7 +114,6 @@ category <- category %>%
 ## COUNTRIES OF OCCURRENCE
 
 # read in downloaded RL data for country-level species distribution
-##SR note--this file does not appear to exist!!!
 countries <- read.csv(file.path(main_dir,taxa_dir,output_dir,
                                 "redlist_species_data","countries.csv"),
                       colClasses="character",na.strings=c("","NA"),strip.white=T)
@@ -345,7 +343,7 @@ unique(taxon_list$all_native_dist_iso2)
 taxon_list <- taxon_list %>%
   select(taxon_name,taxon_name_accepted,taxon_name_status,
          ## !! add any other manually-added columns here !!
-         ns_rank, ns_taxon_name, elevation_range,
+         ns_rank, ns_taxon_name, ##elevation_range, [COMMENTING OUT FOR TEMP DEBUG ATTEMPT]
          rl_category,all_native_dist,all_native_dist_iso2,
          rl_native_dist,rl_native_dist_iso2,
             rl_introduced_dist,rl_introduced_dist_iso2,rl_taxon_name,

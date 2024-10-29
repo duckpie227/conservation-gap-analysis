@@ -1,0 +1,55 @@
+internalTaxonId,scientificName,name,language,main
+32078,Juglans neotropica,Cedro Grande,Spanish; Castilian,false
+32078,Juglans neotropica,Cedro Negro,Spanish; Castilian,false
+32078,Juglans neotropica,Nogal,Spanish; Castilian,false
+32321,Carya sinensis,Chinese Hickory,English,false
+32321,Carya sinensis,Cho Dai,Vietnamese,false
+32321,Carya sinensis,Huihetao,Chinese,false
+33985,Juglans jamaicensis,Walnut,English,false
+33985,Juglans jamaicensis,Palo De Nuez,Spanish; Castilian,false
+33985,Juglans jamaicensis,West Indian Walnut,English,true
+34359,Juglans australis,Nogal Criollo,Spanish; Castilian,false
+34359,Juglans australis,Nogal del Monte,Spanish; Castilian,false
+34359,Juglans australis,Nogal Silvestre,Spanish; Castilian,false
+35154,Juglans californica,Northern California Black Walnut,English,false
+35154,Juglans californica,Southern California Black Walnut,English,true
+63495,Juglans regia,Common Walnut,English,true
+30700,Juglans olanchana,Cedro nogal,Spanish; Castilian,false
+30700,Juglans olanchana,Nogal,Spanish; Castilian,true
+62019576,Carya aquatica,Water Hickory,English,true
+62019598,Carya cordiformis,Bitternut Hickory,English,true
+62019607,Carya glabra,Pignut Hickory,English,true
+62019622,Carya illinoinensis,Pecan,English,true
+62019631,Carya laciniosa,Shellbark Hickory,English,true
+62019640,Carya myristiciformis,Nutmeg Hickory,English,true
+62019649,Carya ovata,Shagbark Hickory,English,true
+62019664,Engelhardia roxburghiana,Huang pao mu,Chinese,false
+62019664,Engelhardia roxburghiana,Jia yu gui,Chinese,false
+62019664,Engelhardia roxburghiana,Huang qi,Chinese,true
+62019689,Juglans cinerea,White Walnut,English,false
+62019689,Juglans cinerea,Noyer cendré,French,false
+62019689,Juglans cinerea,Butternut,English,true
+62019703,Juglans hindsii,Hind's Black Walnut,English,false
+62019703,Juglans hindsii,Northern California Black Walnut,English,true
+62019712,Juglans nigra,Black Walnut,English,true
+66813121,Juglans major,Nogal cimarrón,Spanish; Castilian,false
+66813121,Juglans major,Nogal de Arizona,Spanish; Castilian,false
+66813121,Juglans major,Arizona Walnut,English,true
+66813600,Juglans mollis,Denza gä fani (otomí),Spanish; Castilian,false
+66813600,Juglans mollis,Nuez de caballo,Spanish; Castilian,false
+66813600,Juglans mollis,Nuez meca,Spanish; Castilian,false
+66813600,Juglans mollis,Nogal encarcelado,Spanish; Castilian,true
+66813974,Juglans venezuelensis,Cedro Amargo,Spanish; Castilian,false
+66813974,Juglans venezuelensis,Cedro Blanco,Spanish; Castilian,false
+66813974,Juglans venezuelensis,Nogal de Caracas,Spanish; Castilian,true
+66815986,Pterocarya fraxinifolia,Kanatlı ceviz,Turkish,false
+66815986,Pterocarya fraxinifolia,Lapani,Georgian,false
+66815986,Pterocarya fraxinifolia,Qanadmeyv yalanqozı,Azerbaijani,false
+66815986,Pterocarya fraxinifolia,Rahmani,Iranian (Other),false
+66815986,Pterocarya fraxinifolia,Caucasian wingnut,English,true
+126194480,Carya tomentosa,Whiteheart Hickory,English,false
+126194480,Carya tomentosa,White Hickory,English,false
+126194480,Carya tomentosa,Mockernut Hickory,English,true
+126593309,Juglans pyriformis,Nogal,Spanish; Castilian,false
+126593309,Juglans pyriformis,Nogal Cimarrón,Spanish; Castilian,false
+126593309,Juglans pyriformis,Walnuts,English,true
