@@ -1250,6 +1250,7 @@ keep_col <- c(
   # OPTIONAL additional taxon metadata
   "rl_category","ns_rank","elevation_range"#,"taxon_region"
 )
+###SR NOTE: "error, undefined columns selected"
 all_data9 <- all_data9[,keep_col]
 
 # save version without duplicates combined, in cases needed for reference
