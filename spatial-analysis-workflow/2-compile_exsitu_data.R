@@ -154,7 +154,6 @@ read.exsitu.csv <- function(path,submission_year){
     #   inst_short, but different if from a 'parent R file' w/ mult. institutions)
     df$filename <- rep(mgsub(file_list[file],c(paste0(path,"/"),".csv"),""),nrow(df))
     # add year of submission
-    ###SR NOTE: CANNOT FIND SUBMISSION YEAR INFO ANYWHERE--CANNOT PROGRESS WITH SCRIPT/WORKFLOW UNTIL CLARIFICATION OR WORKAROUND IS FOUND
     df$submission_year <- submission_year
     # remove extra blank columns that may be present
     t <- grepl("^X",names(df))
