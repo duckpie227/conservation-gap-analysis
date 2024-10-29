@@ -126,7 +126,7 @@ distinct <- dplyr::distinct
 
 # use 0-set_working_directory.R script:
   # update to your path
-source("/Users/emily/Documents/GitHub/conservation-gap-analysis/spatial-analysis-workflow/0-set_working_directory.R")
+source("/Users/admin/Documents/School/NU/Artocarpus/conservation-gap-analysis/spatial-analysis-workflow/0-set_working_directory.R")
 
 ################################################################################
 # Load functions
@@ -154,6 +154,7 @@ read.exsitu.csv <- function(path,submission_year){
     #   inst_short, but different if from a 'parent R file' w/ mult. institutions)
     df$filename <- rep(mgsub(file_list[file],c(paste0(path,"/"),".csv"),""),nrow(df))
     # add year of submission
+    ###SR NOTE: CANNOT FIND SUBMISSION YEAR INFO ANYWHERE--CANNOT PROGRESS WITH SCRIPT/WORKFLOW UNTIL CLARIFICATION OR WORKAROUND IS FOUND
     df$submission_year <- submission_year
     # remove extra blank columns that may be present
     t <- grepl("^X",names(df))
@@ -194,7 +195,7 @@ read.exsitu.csv <- function(path,submission_year){
 # number if one isn't given
 ### CHANGE BASED ON FOLDER(S) AND YEAR(S) YOU HAVE...
 all_data <- read.exsitu.csv(file.path(main_dir, exsitu_dir, raw_exsitu,
-                                      "exsitu_standard_column_names"), "2022")
+                                      "exsitu_standard_column_names"), "2023")
 # stack all data if you had multiple years:
 #to_stack <- list(raw_2022,raw_2021,raw_2020,raw_2019,raw_2018,raw_2017)
 #all_data <- Reduce(bind_rows, to_stack)
