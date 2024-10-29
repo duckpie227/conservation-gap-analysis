@@ -1248,9 +1248,9 @@ keep_col <- c(
   # original versions of columns, for reference
   "orig_prov_type","orig_acc_num","orig_num_indiv","orig_lat","orig_long",
   # OPTIONAL additional taxon metadata
-  "rl_category","ns_rank","elevation_range"#,"taxon_region"
+  "rl_category","ns_rank"#,"elevation_range"#,"taxon_region"
 )
-###SR NOTE: "error, undefined columns selected"
+###SR NOTE: "error, undefined columns selected"--had to comment-out "elevation range" again...?
 all_data9 <- all_data9[,keep_col]
 
 # save version without duplicates combined, in cases needed for reference
@@ -1306,6 +1306,8 @@ combine_acc_dups <- function(df,char_cutoff,pattern){
 ### !! THE NEXT SECTION NEEDS TO BE THOROUGHLY REVEIWED AND 
 ###  EDITED TO FIT YOUR DATASET !!
 ### Otherwise you will combine records that do not belong together
+
+###SR NOTE: PAUSING HERE TO CONSIDER ACC NUM PATTERNS!!
 
 # first check the pattern you're using to identify the part of the acc_num that 
 #   represents an individual; for example, the row below should show accession
